@@ -1,0 +1,15 @@
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\bin\Debug\net6.0\EJK.Licitacao.Data.deps.json
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\bin\Debug\net6.0\EJK.Licitacao.Data.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\bin\Debug\net6.0\ref\EJK.Licitacao.Data.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\bin\Debug\net6.0\EJK.Licitacao.Data.pdb
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\bin\Debug\net6.0\EJK.Shared.Models.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\bin\Debug\net6.0\EJK.Shared.Models.pdb
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\obj\Debug\net6.0\EJK.Licitacao.Data.csproj.AssemblyReference.cache
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\obj\Debug\net6.0\EJK.Licitacao.Data.GeneratedMSBuildEditorConfig.editorconfig
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\obj\Debug\net6.0\EJK.Licitacao.Data.AssemblyInfoInputs.cache
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\obj\Debug\net6.0\EJK.Licitacao.Data.AssemblyInfo.cs
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\obj\Debug\net6.0\EJK.Licitacao.Data.csproj.CoreCompileInputs.cache
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\obj\Debug\net6.0\EJK.Licitacao.Data.csproj.CopyComplete
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\obj\Debug\net6.0\EJK.Licitacao.Data.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\obj\Debug\net6.0\ref\EJK.Licitacao.Data.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Licitacao.Data\obj\Debug\net6.0\EJK.Licitacao.Data.pdb

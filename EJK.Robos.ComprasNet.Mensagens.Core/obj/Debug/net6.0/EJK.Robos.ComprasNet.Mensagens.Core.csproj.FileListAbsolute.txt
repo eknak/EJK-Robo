@@ -1,0 +1,15 @@
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\obj\Debug\net6.0\EJK.Robos.ComprasNet.Mensagens.Core.csproj.AssemblyReference.cache
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\obj\Debug\net6.0\EJK.Robos.ComprasNet.Mensagens.Core.GeneratedMSBuildEditorConfig.editorconfig
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\obj\Debug\net6.0\EJK.Robos.ComprasNet.Mensagens.Core.AssemblyInfoInputs.cache
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\obj\Debug\net6.0\EJK.Robos.ComprasNet.Mensagens.Core.AssemblyInfo.cs
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\obj\Debug\net6.0\EJK.Robos.ComprasNet.Mensagens.Core.csproj.CoreCompileInputs.cache
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\bin\Debug\net6.0\EJK.Robos.ComprasNet.Mensagens.Core.deps.json
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\bin\Debug\net6.0\EJK.Robos.ComprasNet.Mensagens.Core.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\bin\Debug\net6.0\ref\EJK.Robos.ComprasNet.Mensagens.Core.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\bin\Debug\net6.0\EJK.Robos.ComprasNet.Mensagens.Core.pdb
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\obj\Debug\net6.0\EJK.Robos.ComprasNet.Mensagens.Core.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\obj\Debug\net6.0\ref\EJK.Robos.ComprasNet.Mensagens.Core.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\obj\Debug\net6.0\EJK.Robos.ComprasNet.Mensagens.Core.pdb
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\bin\Debug\net6.0\EJK.Shared.Models.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\bin\Debug\net6.0\EJK.Shared.Models.pdb
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Robos.ComprasNet.Mensagens.Core\obj\Debug\net6.0\EJK.Robos.ComprasNet.Mensagens.Core.csproj.CopyComplete

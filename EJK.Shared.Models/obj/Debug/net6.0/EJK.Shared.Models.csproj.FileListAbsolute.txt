@@ -1,0 +1,12 @@
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Shared.Models\bin\Debug\net6.0\EJK.Shared.Models.deps.json
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Shared.Models\bin\Debug\net6.0\EJK.Shared.Models.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Shared.Models\bin\Debug\net6.0\ref\EJK.Shared.Models.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Shared.Models\bin\Debug\net6.0\EJK.Shared.Models.pdb
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Shared.Models\obj\Debug\net6.0\EJK.Shared.Models.csproj.AssemblyReference.cache
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Shared.Models\obj\Debug\net6.0\EJK.Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Shared.Models\obj\Debug\net6.0\EJK.Shared.Models.AssemblyInfoInputs.cache
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Shared.Models\obj\Debug\net6.0\EJK.Shared.Models.AssemblyInfo.cs
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Shared.Models\obj\Debug\net6.0\EJK.Shared.Models.csproj.CoreCompileInputs.cache
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Shared.Models\obj\Debug\net6.0\EJK.Shared.Models.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Shared.Models\obj\Debug\net6.0\ref\EJK.Shared.Models.dll
+W:\Projetos\EJK.Robos.ComprasNet.Mensagens\EJK.Shared.Models\obj\Debug\net6.0\EJK.Shared.Models.pdb

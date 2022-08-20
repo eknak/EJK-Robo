@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "W:\\Projetos\\EJK.Robos.ComprasNet.Mensagens\\EJK.Robos.ComprasNet.Mensagens.Core\\EJK.Robos.ComprasNet.Mensagens.Core.csproj": {}
+  },
+  "projects": {
+    "W:\\Projetos\\EJK.Robos.ComprasNet.Mensagens\\EJK.Robos.ComprasNet.Mensagens.Core\\EJK.Robos.ComprasNet.Mensagens.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\Projetos\\EJK.Robos.ComprasNet.Mensagens\\EJK.Robos.ComprasNet.Mensagens.Core\\EJK.Robos.ComprasNet.Mensagens.Core.csproj",
+        "projectName": "EJK.Robos.ComprasNet.Mensagens.Core",
+        "projectPath": "W:\\Projetos\\EJK.Robos.ComprasNet.Mensagens\\EJK.Robos.ComprasNet.Mensagens.Core\\EJK.Robos.ComprasNet.Mensagens.Core.csproj",
+        "packagesPath": "C:\\Users\\Edward\\.nuget\\packages\\",
+        "outputPath": "W:\\Projetos\\EJK.Robos.ComprasNet.Mensagens\\EJK.Robos.ComprasNet.Mensagens.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edward\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "W:\\Projetos\\EJK.Robos.ComprasNet.Mensagens\\EJK.Shared.Models\\EJK.Shared.Models.csproj": {
+                "projectPath": "W:\\Projetos\\EJK.Robos.ComprasNet.Mensagens\\EJK.Shared.Models\\EJK.Shared.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.43, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "W:\\Projetos\\EJK.Robos.ComprasNet.Mensagens\\EJK.Shared.Models\\EJK.Shared.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\Projetos\\EJK.Robos.ComprasNet.Mensagens\\EJK.Shared.Models\\EJK.Shared.Models.csproj",
+        "projectName": "EJK.Shared.Models",
+        "projectPath": "W:\\Projetos\\EJK.Robos.ComprasNet.Mensagens\\EJK.Shared.Models\\EJK.Shared.Models.csproj",
+        "packagesPath": "C:\\Users\\Edward\\.nuget\\packages\\",
+        "outputPath": "W:\\Projetos\\EJK.Robos.ComprasNet.Mensagens\\EJK.Shared.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edward\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
